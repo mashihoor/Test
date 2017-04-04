@@ -5,4 +5,12 @@ https://github.com/mashihoor/Test
 
 git clone https://github.com/mashihoor/Test.git
 
+how to upload files:
+==========================
+
+git add abc.txt
+git commit –m ‘Initial version1’
+git push origin master
+
+github user/pass:  mashihoor/CxxxxxxxxxPxxxyyyyyy
 
