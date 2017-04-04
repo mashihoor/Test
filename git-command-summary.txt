@@ -1,0 +1,8 @@
+How to clone:
+
+https://github.com/mashihoor/Test
+(copy https link)
+
+git clone https://github.com/mashihoor/Test.git
+
+
